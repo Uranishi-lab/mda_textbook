@@ -13,9 +13,9 @@
   - 6.1 Pythonプログラミング
     - chap6/chap6_sample1.ipynb
   - 6.2 AIプログラミング演習ー機械学習の基礎
-    - chap6/chap6_sample2.xlsx
+    - chap6/chap6_sample2.ipynb
   - 6.3 AIプログラミング演習ー深層学習
-    - chap6/chap6_sample3.xlsx
+    - chap6/chap6_sample3.ipynb
 
 
 ### 📄 利用規約
